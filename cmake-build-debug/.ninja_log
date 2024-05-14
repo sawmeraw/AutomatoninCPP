@@ -1,0 +1,10 @@
+# ninja log v5
+11	615	7373813487430427	CMakeFiles/Assignment_2.dir/PDA.cpp.obj	84d041622fbe9804
+9	580	7373813487078991	CMakeFiles/Assignment_2.dir/Driver.cpp.obj	bce6c5d3bc3087ad
+6	468	7373813485951973	CMakeFiles/Assignment_2.dir/Automata.cpp.obj	846e23f3922d272c
+2	695	7373813488202363	CMakeFiles/Assignment_2.dir/DFA.cpp.obj	eb717a1bd41f0384
+695	826	7373813489514029	Assignment_2.exe	19ca825b6376752a
+2	344	7373813710413376	CMakeFiles/Assignment_2.dir/Driver.cpp.obj	bce6c5d3bc3087ad
+347	471	7373813711645413	Assignment_2.exe	19ca825b6376752a
+2	347	7373814737354200	CMakeFiles/Assignment_2.dir/Driver.cpp.obj	bce6c5d3bc3087ad
+349	472	7373814738576228	Assignment_2.exe	19ca825b6376752a
